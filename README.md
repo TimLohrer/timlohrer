@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am a 16yo student from germany**
+**I am a 17yo student from germany**
 
 - 🔭 I’m currently working on **a flutter app in dart** [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
 - 🌱 I’m currently learning **flutter** and **Java/Kotlin**
