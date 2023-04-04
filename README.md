@@ -2,8 +2,8 @@
 
 **I am a 17yo student from germany**
 
-- 🔭 I’m currently working on **a flutter app in dart** [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
-- 🌱 I’m currently learning **flutter** and **Java/Kotlin**
+- 🔭 I’m currently working on **mobile app in flutter** [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
+- 🌱 I’m currently learning **Java/Kotlin**
 - ✨ I've previously made:
   - REST API's and FullStack Web App's in Javascript with express and mongoDB
   - Discord bot's with discord.js
