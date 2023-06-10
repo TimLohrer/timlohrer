@@ -29,7 +29,7 @@
 - Firebase
 
 ### Programming languages I use
-- JavaScript
+- JavaScript / TypeScript
 - Dart
 - Python
 - Rust (learning)
