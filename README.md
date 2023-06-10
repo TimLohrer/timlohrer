@@ -17,7 +17,7 @@
 - 📫 If you want to talk to me, reach out to me on: 
   - Discord: *AimShock#7236*
   - Email: *me@timlohrer.de*
-
+ 
 ### Technologies I use
 - Node.js (Express.js & Discord.js)
 - Flutter
@@ -35,4 +35,4 @@
 - Rust (learning)
 
 ### My GitHub stats
-![My profile stats](https://github-readme-stats.vercel.app/api?username=timlohrer&show_icons=true&theme=transparent)
+![My profile stats](https://github-readme-stats.vercel.app/api?username=timlohrer&show_icons=true&theme=transparent&hide=stars,contribs)
