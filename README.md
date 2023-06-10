@@ -17,3 +17,22 @@
 - 📫 If you want to talk to me, reach out to me on: 
   - Discord: *AimShock#7236*
   - Email: *me@timlohrer.de*
+
+### Technologies I use
+- Node.js (Express.js & Discord.js)
+- Flutter
+- Docker (Portainer)
+- Git
+- Ubuntu
+- Portainer
+- MongoDB
+- Firebase
+
+### Programming languages I use
+- JavaScript
+- Dart
+- Python
+- Rust (learning)
+
+### My GitHub stats
+![My profile stats](https://github-readme-stats.vercel.app/api?username=timlohrer&show_icons=true&theme=transparent)
