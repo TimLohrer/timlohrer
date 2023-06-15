@@ -15,7 +15,7 @@
   - My own home server to host my projects
 - 🤯 I want to learn: **SQL**
 - 📫 If you want to talk to me, reach out to me on: 
-  - Discord: *AimShock#7236*
+  - Discord: *@aims_shock*
   - Email: *me@timlohrer.de*
  
 ### Technologies I use
