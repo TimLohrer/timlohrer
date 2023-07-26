@@ -7,6 +7,7 @@
 - 🔎 I'm interested in **automating/controlling home-IoT devices** and **intigrated circuits**
 - ✨ I've previously made:
   - REST API's and FullStack Web App's in Javascript with express and mongoDB
+  - REST API's in Go
   - Discord bot's with discord.js
   - Minecraft Spigot plugins
   - Minecraft Forge and Fabric mods
