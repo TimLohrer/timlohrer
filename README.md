@@ -33,6 +33,7 @@
 - JavaScript / TypeScript
 - Dart
 - Python
+- Go
 - Rust (learning)
 
 ### My GitHub stats
