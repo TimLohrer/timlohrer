@@ -34,6 +34,7 @@
 - Dart
 - Python
 - Go
+- Java
 - Rust (learning)
 
 ### My GitHub stats
