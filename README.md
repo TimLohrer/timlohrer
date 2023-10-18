@@ -6,12 +6,10 @@
 - 🌱 I’m currently learning **Rust** 😍
 - 🔎 I'm interested in **automating/controlling home-IoT devices** and **intigrated circuits**
 - ✨ I've previously made:
-  - REST API's and FullStack Web App's in Javascript with express and mongoDB
-  - REST API's in Go
+  - REST API's and FullStack Web App's in Javascript with express or in Go with Gin and mongoDB
   - Discord bot's with discord.js
   - Minecraft Spigot plugins
   - Minecraft Forge and Fabric mods
-  - Custom Minecraft clients
   - Small helper scripts in python
   - My own home server to host my projects
 - 🤯 I want to learn: **SQL**
