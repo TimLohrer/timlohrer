@@ -33,6 +33,7 @@
 - Python
 - Go
 - Java
+- kotlin
 - Rust (learning)
 
 ### My GitHub stats
