@@ -37,4 +37,4 @@
 - Rust (learning)
 
 ### My GitHub stats
-![My profile stats](https://github-readme-stats.vercel.app/api?username=timlohrer&show_icons=true&theme=transparent&hide=stars,contribs)
+![My profile stats](https://github-readme-stats-blond-five-93.vercel.app/api?username=timlohrer&show_icons=true&theme=transparent&hide=stars)
