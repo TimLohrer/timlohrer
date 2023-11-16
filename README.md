@@ -12,7 +12,7 @@
   - Minecraft Forge and Fabric mods
   - Small helper scripts in python
   - My own home server to host my projects
-- 🤯 I want to learn: **SQL**
+- 🤯 I want to learn: **C++**
 - 📫 If you want to talk to me, reach out to me on: 
   - Discord: *@aim_shock*
   - Email: *me@timlohrer.de*
@@ -26,6 +26,7 @@
 - Portainer
 - MongoDB
 - Firebase
+- SQL
 
 ### Programming languages I use
 - JavaScript / TypeScript
