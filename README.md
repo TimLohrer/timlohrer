@@ -27,6 +27,7 @@
 - MongoDB
 - Firebase
 - SQL
+- Tauri
 
 ### Programming languages I use
 - JavaScript / TypeScript
