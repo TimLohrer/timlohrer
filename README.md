@@ -3,6 +3,7 @@
 **I am a 17 year old student from germany**
 
 - 🔭 I’m currently working on a **mobile app in flutter** [@pulsatrix-eMobility](https://github.com/pulsatrix-emobility/)
+- 👀 NoriskClient Developer
 - 🌱 I’m currently learning **Rust** 😍
 - 🔎 I'm interested in **automating/controlling home-IoT devices** and **intigrated circuits**
 - ✨ I've previously made:
@@ -37,6 +38,3 @@
 - Java
 - kotlin
 - Rust (learning)
-
-### My GitHub stats
-![My profile stats](https://github-readme-stats-blond-five-93.vercel.app/api?username=timlohrer&show_icons=true&theme=transparent&hide=stars)
