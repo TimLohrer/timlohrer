@@ -16,7 +16,7 @@
 ![Operating Systems](https://skillicons.dev/icons?i=windows,apple,linux,ubuntu)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=git,github,cloudflare,docker,firebase,flutter,ktor,mongodb,npm,nodejs,svelte,tauri,vscode,idea,webstorm,postman,arduino,bash)
+![Tools](https://skillicons.dev/icons?i=git,github,cloudflare,docker,firebase,flutter,ktor,mongodb,mysql,npm,nodejs,svelte,tauri,vscode,idea,webstorm,postman,arduino,bash)
 
 ### Libraries
 ![Libraries](https://skillicons.dev/icons?i=discordjs,express)
