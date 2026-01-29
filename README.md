@@ -2,7 +2,7 @@
 
 **I am a 19 year old student from germany**
 
-- 👀 Lead Developer [@NoRiskClient](https://github.com/NoRiskClient/)
+- 👀 Team Lead [@NoRiskClient](https://github.com/NoRiskClient/)
 - ❤️ Ex-Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
 - 🌱 I’m currently learning **C, C++ and C#**
 - ✨ You can find my portfolio at [timlohrer.dev](https://timlohrer.dev)
