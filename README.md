@@ -21,4 +21,4 @@
 ![Libraries](https://skillicons.dev/icons?i=express,ktor,tauri,svelte,nextjs,discordjs)
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=js,go,rust,dart,kotlin,java,py,css,html)
+![Programming Languages](https://skillicons.dev/icons?i=js,go,rust,dart,kotlin,java,cs,py,css,html)
