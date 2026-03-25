@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am a 19 year old student from germany**
+**I am a 20 year old student from germany**
 
 - 👀 Team Lead [@NoRiskClient](https://github.com/NoRiskClient/)
 - ❤️ Ex-Developer [@GalaxyBot](https://github.com/GalaxyBotTeam)
